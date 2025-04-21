@@ -13,3 +13,7 @@ Local Download Arquivo CSV: https://data.sfgov.org/City-Management-and-Ethics/Em
 - Modelagem em linguagem M
 - Formulas DAX
 - Visual
+
+![Capa](Proj1-1.3.jpg)
+![Página 1](Proj1-2.3.jpg)
+![Página 2](Proj1-3.3.jpg)
